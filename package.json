@@ -1,0 +1,29 @@
+{
+  "name": "ByMySpanık#0514",
+  "version": "0.0.1",
+  "description": "Kategorili Destek Altyapısı",
+  "main": "FroLenk.js",
+  "scripts": {
+    "start": "node FroLenk.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "chalk": "^4.1.0",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://lozbeykod.glitch.me/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ByMySpanık#0514",
+    "FroLenk bot",
+    "AntiCode Development"
+  ]
+}
